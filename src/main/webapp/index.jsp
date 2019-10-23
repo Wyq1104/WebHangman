@@ -30,7 +30,7 @@
   <form method="GET" action="/game">
 
     <div class="form-group">
-      <label for="PlayerName">Player Name</label>
+      <label for="name">Player Name</label>
       <input type="text" name="name" id="name" value="" class="form-control" />
     </div>
     <button type="submit" class="btn btn-success">New Game</button>
